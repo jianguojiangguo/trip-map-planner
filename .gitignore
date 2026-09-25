@@ -1,0 +1,13 @@
+# 备份 / 临时
+*.bak
+*.bak_*
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 编辑器和缓存
+__pycache__/
+.vscode/
+.idea/

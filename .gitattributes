@@ -1,0 +1,8 @@
+# 统一换行符，避免 Windows/Linux 差异造成无意义的 diff
+* text=auto eol=lf
+
+# 明确类型
+*.md   text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.png  binary
